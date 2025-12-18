@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CMP304Project.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/Owner/Documents/Unreal Projects/CMP304Project/Intermediate/Build/Win64/x64/CMP304ProjectEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/Owner/Documents/Unreal Projects/CMP304Project/Intermediate/Build/Win64/x64/UnrealEditor/Development/CMP304Project/CMP304Project.cpp.obj"
+"C:/Users/Owner/Documents/Unreal Projects/CMP304Project/Intermediate/Build/Win64/x64/UnrealEditor/Development/CMP304Project/PerModuleInline.gen.cpp.obj"
+"C:/Users/Owner/Documents/Unreal Projects/CMP304Project/Intermediate/Build/Win64/x64/UnrealEditor/Development/CMP304Project/Default.rc2.res"
+/OUT:"C:/Users/Owner/Documents/Unreal Projects/CMP304Project/Intermediate/Build/Win64/x64/UnrealEditor/Development/CMP304Project/UnrealEditor-CMP304Project.lib"

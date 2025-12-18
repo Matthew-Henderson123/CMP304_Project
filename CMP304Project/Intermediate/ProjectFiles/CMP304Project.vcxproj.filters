@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CMP304Project.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CMP304Project.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CMP304ProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CMP304Project">
+      <UniqueIdentifier>{D19D3658-9610-370A-ACC2-303500BA0BE8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CMP304Project\CMP304Project.Build.cs">
+      <Filter>Source\CMP304Project</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CMP304Project\CMP304Project.cpp">
+      <Filter>Source\CMP304Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CMP304Project\CMP304Project.h">
+      <Filter>Source\CMP304Project</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

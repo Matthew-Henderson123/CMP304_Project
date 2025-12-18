@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CMP304Project",
+			"Path": "..\\Source\\CMP304Project.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CMP304ProjectEditor",
+			"Path": "..\\Source\\CMP304ProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
