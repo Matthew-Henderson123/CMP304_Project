@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CMP304Project.gen.cpp.obj": [
+			"AICharacter.gen.cpp.obj",
+			"BT_FindPlayerPos.gen.cpp.obj",
+			"BT_FindRandPos.gen.cpp.obj",
+			"BT_Rest.gen.cpp.obj",
+			"CMP304Project.init.gen.cpp.obj",
+			"EnemyController.gen.cpp.obj",
+			"MenuUi.gen.cpp.obj",
+			"MyGameInstance.gen.cpp.obj",
+			"PlayerCharacter.gen.cpp.obj",
+			"StatsUI.gen.cpp.obj"
+		]
+	}
+}

@@ -8,7 +8,18 @@ public class CMP304Project : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "EnhancedInput" });
+		PublicDependencyModuleNames.AddRange(new string[] 
+		{ 
+			"Core"
+			, "CoreUObject"
+			, "Engine"
+			, "InputCore"
+			, "EnhancedInput" 
+			, "GameplayTasks"
+			, "NavigationSystem"
+			, "AIModule"
+			, "UMG"
+		});
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\owner\\documents\\unreal projects\\cmp304project\\source\\cmp304project\\mygameinstance.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\owner\\documents\\unreal projects\\cmp304project\\intermediate\\build\\win64\\x64\\cmp304project\\shipping\\engine\\sharedpch.engine.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\owner\\documents\\unreal projects\\cmp304project\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\cmp304project\\definitions.cmp304project.h",
+            "c:\\users\\owner\\documents\\unreal projects\\cmp304project\\source\\cmp304project\\mygameinstance.h",
+            "c:\\users\\owner\\documents\\unreal projects\\cmp304project\\intermediate\\build\\win64\\unrealgame\\inc\\cmp304project\\uht\\mygameinstance.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
